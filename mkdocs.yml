@@ -1,0 +1,8 @@
+site_name: JACoW - Running a TM
+#site_url: https://docs-TM.JACoW.org
+theme: material
+repo_name: 'jacow-org/docs-TM'
+repo_url: 'https://github.com/jacow-org/docs-TM'
+nav:
+  - Introduction: index.md
+
